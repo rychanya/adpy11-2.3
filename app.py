@@ -3,9 +3,9 @@ from datetime import datetime
 from typing import List, Optional
 from pprint import pprint
 
-DB_NAME = 'my_db'
-USER = 'rychanya'
-PASS_WORD = 'darkmoon'
+DB_NAME = ''
+USER = ''
+PASS_WORD = ''
 
 
 def create_db() -> None:
